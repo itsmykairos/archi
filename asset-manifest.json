@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/archi/static/css/main.55629a76.chunk.css",
+    "main.css": "/archi/static/css/main.5851ad32.chunk.css",
     "main.js": "/archi/static/js/main.0af3d5ff.chunk.js",
     "main.js.map": "/archi/static/js/main.0af3d5ff.chunk.js.map",
     "runtime-main.js": "/archi/static/js/runtime-main.1fad8bc3.js",
@@ -10,7 +10,7 @@
     "static/js/3.dd8328f7.chunk.js": "/archi/static/js/3.dd8328f7.chunk.js",
     "static/js/3.dd8328f7.chunk.js.map": "/archi/static/js/3.dd8328f7.chunk.js.map",
     "index.html": "/archi/index.html",
-    "static/css/main.55629a76.chunk.css.map": "/archi/static/css/main.55629a76.chunk.css.map",
+    "static/css/main.5851ad32.chunk.css.map": "/archi/static/css/main.5851ad32.chunk.css.map",
     "static/js/2.e8f0d089.chunk.js.LICENSE.txt": "/archi/static/js/2.e8f0d089.chunk.js.LICENSE.txt",
     "static/media/Kairos.963966d8.png": "/archi/static/media/Kairos.963966d8.png",
     "static/media/bat.7aa56a46.jpg": "/archi/static/media/bat.7aa56a46.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.1fad8bc3.js",
     "static/js/2.e8f0d089.chunk.js",
-    "static/css/main.55629a76.chunk.css",
+    "static/css/main.5851ad32.chunk.css",
     "static/js/main.0af3d5ff.chunk.js"
   ]
 }
